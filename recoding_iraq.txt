@@ -1,0 +1,12 @@
+About education, please follow the below classification. Thank you !
+ECD --> ISCED 0
+Primary --> ISCED 1
+Intermediate --> ISCED 2
+Diploma (five years after intermediate)--> ISCED 5
+Secondary --> ISCED 3
+Diploma --> ISCED 6
+Bachelors degree --> ISCED 6
+Higher Education --> ISCED 7      
+DK --> Not stated
+
+
